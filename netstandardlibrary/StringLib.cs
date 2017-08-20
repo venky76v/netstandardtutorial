@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace netstandardclasslibrary
+namespace netstandardlibrary
 {
     public static class StringLib
     {

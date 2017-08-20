@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
-using netstandardclasslibrary;
+using netstandardlibrary;
 
 namespace TestNetStandardLibraryWinForms
 {
