@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netstandardclasslibrary", "netstandardclasslibrary\netstandardclasslibrary.csproj", "{C82564E7-D467-4E5E-97F5-EC9D38B603AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNetStandardLibraryWinForms", "TestNetStandardLibraryWinForms\TestNetStandardLibraryWinForms.csproj", "{0AC65A94-A120-4170-A5FA-14D88B412619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C82564E7-D467-4E5E-97F5-EC9D38B603AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C82564E7-D467-4E5E-97F5-EC9D38B603AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C82564E7-D467-4E5E-97F5-EC9D38B603AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C82564E7-D467-4E5E-97F5-EC9D38B603AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AC65A94-A120-4170-A5FA-14D88B412619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC65A94-A120-4170-A5FA-14D88B412619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC65A94-A120-4170-A5FA-14D88B412619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC65A94-A120-4170-A5FA-14D88B412619}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2E63E32-AA75-4495-A9FD-B70A80998D54}
+	EndGlobalSection
+EndGlobal
